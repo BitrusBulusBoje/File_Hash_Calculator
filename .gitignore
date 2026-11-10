@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup script
+hash_calculator_backup.py
+
+# Generated reports
+reports/
+
+# Local test evidence
+test_evidence.txt
+test_evidence_modified.txt
